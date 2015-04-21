@@ -1,0 +1,1 @@
+scan dna to find promoter elements
